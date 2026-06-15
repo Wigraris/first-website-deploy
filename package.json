@@ -1,7 +1,9 @@
 {
 	"dependencies": {
 		"@tailwindcss/vite": "^4.3.0",
+		"express": "^5.2.1",
 		"react-router-dom": "^7.15.1",
-		"tailwindcss": "^4.3.0"
+		"tailwindcss": "^4.3.0",
+		"type": "^2.7.3"
 	}
 }
